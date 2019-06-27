@@ -70,3 +70,20 @@ figcaption {
 #details a:active {
   color: red;
 }
+
+
+/*////////// LAYOUT //////////*/
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+  background: #eee;
+}
+
+.col-1 {
+  /* this column will span two-thirds */
+}
+
+.col-2 {
+  /* this column will span all the entire wrapper */
+}
